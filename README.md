@@ -4,6 +4,10 @@ React Native hook that applies dark font color for light mode and light font col
 
 ## Installation
 
+- Install
+
+  `npm i react-native-font-color-hook`
+
 - Start by importing the hook
 
   `import useFontColor from 'react-native-font-color-hook'`
