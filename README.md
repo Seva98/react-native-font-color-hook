@@ -22,7 +22,7 @@ React Native hook that applies dark font color for light mode and light font col
 
 - In your component pass it to style attribute
 
-  `<Text style={fontColor}>Test Text</Text>`
+  `<Text style={[fontColor]}>Test Text</Text>`
 
   You can also append current style attribute array with it
 
