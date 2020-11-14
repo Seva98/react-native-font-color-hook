@@ -4,22 +4,24 @@ React Native hook that applies dark font color for light mode and light font col
 
 ## Installation
 
-- Start by importing the hook 
+- Start by importing the hook
 
   `import useFontColor from 'react-native-font-color-hook'`
-- Initialize the hook 
+
+- Initialize the hook
 
   `const fontColor = useFontColor()`
-  
-  - You can also pass two optional parameters useFontColor(lightModeColor, darkModeColor), for example like this 
-    
+
+  - You can also pass two optional parameters to useFontColor(lightModeColor, darkModeColor), like this:
+
     `const fontColor = useFontColor('#AAEEAA', 'blue')`
-- In your component pass it to style attribute 
-  
+
+- In your component pass it to style attribute
+
   `<Text style={fontColor}>Test Text</Text>`
-  
-  You can also append current style attribute array with it 
-  
+
+  You can also append current style attribute array with it
+
   `<Text style={[styles.title, fontColor]}>Test Text</Text>`
 
 ## Example
