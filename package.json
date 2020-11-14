@@ -1,0 +1,29 @@
+{
+  "name": "@ondrej.sevcik/react-native-font-color-hook",
+  "version": "1.0.0",
+  "description": "React Native hook that applies dark font color for light mode and light font color for dark mode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seva98/react-native-font-color-hook.git"
+  },
+  "keywords": [
+    "react-native",
+    "dark",
+    "mode",
+    "react-native-appearance"
+  ],
+  "author": "sevcik.dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seva98/react-native-font-color-hook/issues"
+  },
+  "homepage": "https://github.com/Seva98/react-native-font-color-hook#readme",
+  "dependencies": {
+    "react-native": "^0.63.3",
+    "react-native-appearance": "^0.3.4"
+  }
+}
