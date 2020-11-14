@@ -1,6 +1,6 @@
 # react-native-font-color-hook
 
-React Native hook that applies dark font color for light mode and light font color for dark mode.
+React Native hook that applies dark font color for light mode and light font color for dark mode by [sevcik.dev](https://sevcik.dev)
 
 ## Installation
 
