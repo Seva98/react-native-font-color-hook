@@ -1,6 +1,6 @@
 {
   "name": "react-native-font-color-hook",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React Native hook that applies dark font color for light mode and light font color for dark mode.",
   "main": "index.js",
   "scripts": {
