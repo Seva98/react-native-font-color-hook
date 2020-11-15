@@ -6,7 +6,15 @@ React Native hook that applies dark font color for light mode and light font col
 
 - Install
 
+  npm
+
   `npm i react-native-font-color-hook`
+
+  yarn
+
+  `yarn add react-native-font-color-hook`
+
+## Usage
 
 - Start by importing the hook
 
@@ -50,7 +58,6 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 32,
     fontWeight: '800',
-    color: 'white',
     paddingLeft: 10,
   },
 });
